@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yeonXP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width=59% />
 </a>
 <a href="https://github.com/yeonXP">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeonXP&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeonXP&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=99%/>
 </a>
 
 
