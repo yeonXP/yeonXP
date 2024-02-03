@@ -53,10 +53,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yeonXP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width=56% />
 </a>
 <a href="https://github.com/yeonXP">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeonXP&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeonXP&theme=react-dark&bg_color=#1A1B27&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
 <img src="https://github.com/yeonXP/yeonXP/blob/output/github-snake-dark.svg" width="100%">
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
