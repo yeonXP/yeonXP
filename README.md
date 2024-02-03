@@ -5,10 +5,6 @@
 
 **yeonXP/yeonXP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonXP&layout=compact)](https://github.com/delay-100/github-readme-stats)
-
-
 <a href="https://github.com/yeonXP">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonXP&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
