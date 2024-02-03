@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=yeonXP&&fontAlign=81&fontAlignY=35" width="100%"/>
 
 ### Hi there 👋
-
-
-**yeonXP/yeonXP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<details>
+<summary>About Me!</summary>
+어쩌구저쩌구 (감추고자 하는 내용)
+</summary>
 <div align="center">
 <a href="https://github.com/yeonXP">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonXP&layout=donut&show_icons=true&theme=tokyonight&hide_border=true&bg_color=#1A1B276&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
