@@ -1,6 +1,5 @@
-![header]<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradien&height=200&section=header&text=yeonXP&&fontAlign=81&fontAlignY=35" width="100%"/>
+![header]<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=yeonXP&&fontAlign=81&fontAlignY=35" width="100%"/>
 
-  
 ### Hi there 👋
 
 
