@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <a href="https://github.com/yeonXP"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=yeonXP&theme=tokyonight&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="yeonXP's github stats" /></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonXP&theme=tokyonight&show_icons=true)
+![Anurag's GitHub stats]<a href="https://github.com/yeonXP">(https://github-readme-stats.vercel.app/api?username=yeonXP&theme=tokyonight&show_icons=true)</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonXP&layout=compact)](https://github.com/delay-100/github-readme-stats)
 
