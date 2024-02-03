@@ -10,7 +10,6 @@
             <a href="https://jessica31026.tistory.com">
                 <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
             </a>  
-        ##📞 Contact 📞
         <div style="display:flex; flex-direction:row;">
             <a href="https://www.instagram.com/itsjusttheway1be/">
                 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
