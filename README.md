@@ -1,6 +1,6 @@
  <div align=center>
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=yeonXP!)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=yeonXP&fontAlignY=20)
   
   
 ### Hi there 👋
