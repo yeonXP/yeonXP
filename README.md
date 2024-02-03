@@ -2,7 +2,7 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=yeonXP&fontAlign=81&fontAlignY=35)
   
-  
+  ![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00)
 ### Hi there 👋
 
 
