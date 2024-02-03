@@ -2,9 +2,10 @@
 
 ### Hi there 👋
 <details>
-<summary>About Me!</summary>
-어쩌구저쩌구 (감추고자 하는 내용)
-</summary>
+    <summary>About Me!</summary>
+    어쩌구저쩌구 (감추고자 하는 내용)
+    </summary>
+</details>
     
 <div align="center">
 <a href="https://github.com/yeonXP">
