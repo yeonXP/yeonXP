@@ -2,8 +2,8 @@
 <div align="center">
     
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
-    
-### Hi there 👋
+(https://readme-typing-svg.demolab.com? font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+yeonXP's+GitHub!)
+
 <details>
     <summary>About Me!</summary>
     어쩌구저쩌구 (감추고자 하는 내용)
