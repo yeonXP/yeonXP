@@ -1,6 +1,4 @@
- <!-<div align=center>-->
-
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=yeonXP&fontAlign=81&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=yeonXP&fontAlign=81&fontAlignY=35)
   
 ### Hi there 👋
 
@@ -14,7 +12,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonXP&layout=compact)](https://github.com/delay-100/github-readme-stats)
 
-//</div>
 
 Here are some ideas to get you started:
 
