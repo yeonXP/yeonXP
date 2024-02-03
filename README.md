@@ -1,4 +1,4 @@
-![header]<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=yeonXP&&fontAlign=81&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=yeonXP&&fontAlign=81&fontAlignY=35" width="100%"/>
 
 ### Hi there 👋
 
