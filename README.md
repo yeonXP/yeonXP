@@ -1,7 +1,7 @@
  <div align=center>
 
-  ![header](https://capsule-render.vercel.app/api?type=waving)
-  ![header](https://capsule-render.vercel.app/api?color=timeGradient)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient)
+  
   
 ### Hi there 👋
 
