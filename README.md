@@ -7,7 +7,7 @@
     <summary>About Me!</summary>
         <br>
         <div style="display:flex; flex-direction:row;">
-            <a href="https://jessica31026.tistory.com">
+            <a href="https://jessica31025.tistory.com">
                 <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
             </a>
             <a href="https://www.instagram.com/itsjusttheway1be/">
