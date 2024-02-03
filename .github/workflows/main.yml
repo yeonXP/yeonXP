@@ -22,8 +22,7 @@ jobs:
           github_user_name: yeonXP
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=#881AFF&color_dots=#A4CDFB,#6FA3FA,#5D88D1,#4A6CA6,#354E78
+            dist/github-snake-dark.svg?color_snake=#881AFF&color_dots=#A4CDFB,#6FA3FA,#5D88D1,#4A6CA6,#354E78?palette=github-dark
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
