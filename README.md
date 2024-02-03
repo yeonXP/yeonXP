@@ -5,13 +5,14 @@
 
 <details>
     <summary>About Me!</summary>
+    ..
+    </summary>
     ## 💻 DEV's log 💻
     <div style="display:flex; flex-direction:row;">
         <a href="https://jessica31025.com">
             <img src="https://img.shields.io/badge/
             Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
         </a>
-    </summary>
 </details>
     
 <a href="https://github.com/yeonXP">
