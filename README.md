@@ -9,8 +9,7 @@
         <div style="display:flex; flex-direction:row;">
             <a href="https://jessica31026.tistory.com">
                 <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-            </a>  
-        <div style="display:flex; flex-direction:row;">
+            </a>
             <a href="https://www.instagram.com/itsjusttheway1be/">
                 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
             </a>
@@ -18,7 +17,6 @@
                 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
             </a>
         </div><br>
-        ## 🔨 Once I've used 🔨
         <div style="display:flex; flex-direction:row;">
             <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
             <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
