@@ -80,6 +80,7 @@
 <a href="https://github.com/yeonXP">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeonXP&theme=react-dark&bg_color=1A1B27&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
+</div>
 
 <img src="https://github.com/yeonXP/yeonXP/blob/output/github-snake-dark.svg" width="100%">
 
