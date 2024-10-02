@@ -1,8 +1,10 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=yeonXP&&fontAlign=81&fontAlignY=35" width="100%"/>-->
-<div style="text-align: ;">
+<div style="text-align: center;">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
-    <img src="https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=hello-world-!!&font=Redressed&size=40"/>
-<br><br>
+    <div style="text-align: center;">
+        <img src="https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=hello-world-!!&font=Redressed&size=40"/>
+    </div>
+    <br><br>
 
 <details>
     <summary>About Me!</summary>
